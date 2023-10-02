@@ -1,0 +1,146 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-chno="1101" tvg-logo="http://93.55.241.177/picon/rai1hd.png" tvg-id="1:0:19:44D:71:217C:EEEE0000:0:0:0:" tvg-name="Rai 1 HD",Rai 1 HD
+#EXTVLCOPT:program=1101
+http://93.55.241.177:8001/1:0:19:44D:71:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="1102" tvg-logo="http://93.55.241.177/picon/rai2hd.png" tvg-id="1:0:19:44E:71:217C:EEEE0000:0:0:0:" tvg-name="Rai 2 HD",Rai 2 HD
+#EXTVLCOPT:program=1102
+http://93.55.241.177:8001/1:0:19:44E:71:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="1114" tvg-logo="http://93.55.241.177/picon/rai3tgrlombardia.png" tvg-id="1:0:1:45A:71:217C:EEEE0000:0:0:0:" tvg-name="Rai 3 TGR Lombardia HD",Rai 3 TGR Lombardia HD
+#EXTVLCOPT:program=1114
+http://93.55.241.177:8001/1:0:1:45A:71:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="3504" tvg-logo="http://93.55.241.177/picon/rete4hd.png" tvg-id="1:0:19:DB0:3A2:110:EEEE0000:0:0:0:" tvg-name="Rete4 HD",Rete4 HD
+#EXTVLCOPT:program=3504
+http://93.55.241.177:8001/1:0:19:DB0:3A2:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="3005" tvg-logo="http://93.55.241.177/picon/canale5hd.png" tvg-id="1:0:19:BBD:3A2:110:EEEE0000:0:0:0:" tvg-name="Canale5 HD",Canale5 HD
+#EXTVLCOPT:program=3005
+http://93.55.241.177:8001/1:0:19:BBD:3A2:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="3006" tvg-logo="http://93.55.241.177/picon/italia1hd.png" tvg-id="1:0:19:BBE:3A2:110:EEEE0000:0:0:0:" tvg-name="Italia1 HD",Italia1 HD
+#EXTVLCOPT:program=3006
+http://93.55.241.177:8001/1:0:19:BBE:3A2:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="751" tvg-logo="http://93.55.241.177/picon/la7hd.png" tvg-id="1:0:19:2EF:107:217C:EEEE0000:0:0:0:" tvg-name="LA7 HD",LA7 HD
+#EXTVLCOPT:program=751
+http://93.55.241.177:8001/1:0:19:2EF:107:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="70" tvg-logo="http://93.55.241.177/picon/tv8hd.png" tvg-id="1:0:19:46:200:1D:EEEE0000:0:0:0:" tvg-name="TV8 HD",TV8 HD
+#EXTVLCOPT:program=70
+http://93.55.241.177:8001/1:0:19:46:200:1D:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="20" tvg-logo="http://93.55.241.177/picon/nove.png" tvg-id="1:0:19:14:7918:217C:EEEE0000:0:0:0:" tvg-name="NOVE",NOVE
+#EXTVLCOPT:program=20
+http://93.55.241.177:8001/1:0:19:14:7918:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="22" tvg-logo="http://93.55.241.177/images/default_picon.png" tvg-id="1:0:1:16:2000:217C:EEEE0000:0:0:0:" tvg-name="Telelombardia HD.",Telelombardia HD.
+#EXTVLCOPT:program=22
+http://93.55.241.177:8001/1:0:1:16:2000:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="24" tvg-logo="http://93.55.241.177/picon/antenna3.png" tvg-id="1:0:1:18:2000:217C:EEEE0000:0:0:0:" tvg-name="Antenna 3 HD.",Antenna 3 HD.
+#EXTVLCOPT:program=24
+http://93.55.241.177:8001/1:0:1:18:2000:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="23" tvg-logo="http://93.55.241.177/picon/topcalcio24.png" tvg-id="1:0:1:17:2000:217C:EEEE0000:0:0:0:" tvg-name="TopCalcio24 HD.",TopCalcio24 HD.
+#EXTVLCOPT:program=23
+http://93.55.241.177:8001/1:0:1:17:2000:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="2003" tvg-logo="http://93.55.241.177/images/default_picon.png" tvg-id="1:0:1:7D3:20E1:217C:EEEE0000:0:0:0:" tvg-name="TELECITY LOMBARDIA",TELECITY LOMBARDIA
+#EXTVLCOPT:program=2003
+http://93.55.241.177:8001/1:0:1:7D3:20E1:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="27" tvg-logo="http://93.55.241.177/images/default_picon.png" tvg-id="1:0:1:1B:2000:217C:EEEE0000:0:0:0:" tvg-name="TELENOVA HD",TELENOVA HD
+#EXTVLCOPT:program=27
+http://93.55.241.177:8001/1:0:1:1B:2000:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="3020" tvg-logo="http://93.55.241.177/picon/20mediasethd.png" tvg-id="1:0:19:BCC:3A2:110:EEEE0000:0:0:0:" tvg-name="20Mediaset HD",20Mediaset HD
+#EXTVLCOPT:program=3020
+http://93.55.241.177:8001/1:0:19:BCC:3A2:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="1056" tvg-logo="http://93.55.241.177/picon/rai4.png" tvg-id="1:0:16:420:2:217C:EEEE0000:0:0:0:" tvg-name="Rai 4",Rai 4
+#EXTVLCOPT:program=1056
+http://93.55.241.177:8001/1:0:16:420:2:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="153" tvg-logo="http://93.55.241.177/picon/irishd.png" tvg-id="1:0:19:99:385:110:EEEE0000:0:0:0:" tvg-name="Iris HD",Iris HD
+#EXTVLCOPT:program=153
+http://93.55.241.177:8001/1:0:19:99:385:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="1057" tvg-logo="http://93.55.241.177/picon/rai5.png" tvg-id="1:0:16:421:2:217C:EEEE0000:0:0:0:" tvg-name="Rai 5",Rai 5
+#EXTVLCOPT:program=1057
+http://93.55.241.177:8001/1:0:16:421:2:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="1027" tvg-logo="http://93.55.241.177/picon/raimoviehd.png" tvg-id="1:0:19:403:1:217C:EEEE0000:0:0:0:" tvg-name="Rai Movie HD",Rai Movie HD
+#EXTVLCOPT:program=1027
+http://93.55.241.177:8001/1:0:19:403:1:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="1006" tvg-logo="http://93.55.241.177/picon/raipremium.png" tvg-id="1:0:16:3EE:1:217C:EEEE0000:0:0:0:" tvg-name="Rai Premium",Rai Premium
+#EXTVLCOPT:program=1006
+http://93.55.241.177:8001/1:0:16:3EE:1:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="80" tvg-logo="http://93.55.241.177/picon/cielo.png" tvg-id="1:0:16:50:200:1D:EEEE0000:0:0:0:" tvg-name="Cielo",Cielo
+#EXTVLCOPT:program=80
+http://93.55.241.177:8001/1:0:16:50:200:1D:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="154" tvg-logo="http://93.55.241.177/picon/27twentysevenhd.png" tvg-id="1:0:19:9A:385:110:EEEE0000:0:0:0:" tvg-name="27Twentyseven HD",27Twentyseven HD
+#EXTVLCOPT:program=154
+http://93.55.241.177:8001/1:0:19:9A:385:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="100" tvg-logo="http://93.55.241.177/picon/tv2000.png" tvg-id="1:0:19:64:200:1D:EEEE0000:0:0:0:" tvg-name="TV2000",TV2000
+#EXTVLCOPT:program=100
+http://93.55.241.177:8001/1:0:19:64:200:1D:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="752" tvg-logo="http://93.55.241.177/picon/la7d.png" tvg-id="1:0:16:2F0:107:217C:EEEE0000:0:0:0:" tvg-name="LA7d",LA7d
+#EXTVLCOPT:program=752
+http://93.55.241.177:8001/1:0:16:2F0:107:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="152" tvg-logo="http://93.55.241.177/picon/la5hd.png" tvg-id="1:0:19:98:385:110:EEEE0000:0:0:0:" tvg-name="La5 HD",La5 HD
+#EXTVLCOPT:program=152
+http://93.55.241.177:8001/1:0:19:98:385:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="44" tvg-logo="http://93.55.241.177/picon/realtime.png" tvg-id="1:0:19:2C:204:1D:EEEE0000:0:0:0:" tvg-name="Real Time",Real Time
+#EXTVLCOPT:program=44
+http://93.55.241.177:8001/1:0:19:2C:204:1D:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="2149" tvg-logo="http://93.55.241.177/picon/qvchd.png" tvg-id="1:0:19:865:389:110:EEEE0000:0:0:0:" tvg-name="QVC HD",QVC HD
+#EXTVLCOPT:program=2149
+http://93.55.241.177:8001/1:0:19:865:389:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="20" tvg-logo="http://93.55.241.177/picon/foodnetwork.png" tvg-id="1:0:19:14:204:1D:EEEE0000:0:0:0:" tvg-name="Food Network",Food Network
+#EXTVLCOPT:program=20
+http://93.55.241.177:8001/1:0:19:14:204:1D:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="2154" tvg-logo="http://93.55.241.177/picon/cine34hd.png" tvg-id="1:0:19:86A:389:110:EEEE0000:0:0:0:" tvg-name="Cine34 HD",Cine34 HD
+#EXTVLCOPT:program=2154
+http://93.55.241.177:8001/1:0:19:86A:389:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="2157" tvg-logo="http://93.55.241.177/picon/focushd.png" tvg-id="1:0:19:86D:389:110:EEEE0000:0:0:0:" tvg-name="Focus HD",Focus HD
+#EXTVLCOPT:program=2157
+http://93.55.241.177:8001/1:0:19:86D:389:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="22" tvg-logo="http://93.55.241.177/picon/warnertv.png" tvg-id="1:0:19:16:204:1D:EEEE0000:0:0:0:" tvg-name="Warner TV",Warner TV
+#EXTVLCOPT:program=22
+http://93.55.241.177:8001/1:0:19:16:204:1D:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="16" tvg-logo="http://93.55.241.177/picon/giallo.png" tvg-id="1:0:19:10:204:1D:EEEE0000:0:0:0:" tvg-name="GIALLO",GIALLO
+#EXTVLCOPT:program=16
+http://93.55.241.177:8001/1:0:19:10:204:1D:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="2150" tvg-logo="http://93.55.241.177/picon/topcrimehd.png" tvg-id="1:0:19:866:389:110:EEEE0000:0:0:0:" tvg-name="TOPcrime HD",TOPcrime HD
+#EXTVLCOPT:program=2150
+http://93.55.241.177:8001/1:0:19:866:389:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="1009" tvg-logo="http://93.55.241.177/picon/rainews24hd.png" tvg-id="1:0:19:3F1:1:217C:EEEE0000:0:0:0:" tvg-name="Rai News 24 HD",Rai News 24 HD
+#EXTVLCOPT:program=1009
+http://93.55.241.177:8001/1:0:19:3F1:1:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="105" tvg-logo="http://93.55.241.177/picon/mediasetitalia2hd.png" tvg-id="1:0:19:69:385:110:EEEE0000:0:0:0:" tvg-name="Mediaset Italia2 HD",Mediaset Italia2 HD
+#EXTVLCOPT:program=105
+http://93.55.241.177:8001/1:0:19:69:385:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="90" tvg-logo="http://93.55.241.177/picon/skytg24.png" tvg-id="1:0:16:5A:200:1D:EEEE0000:0:0:0:" tvg-name="Sky TG24",Sky TG24
+#EXTVLCOPT:program=90
+http://93.55.241.177:8001/1:0:16:5A:200:1D:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="114" tvg-logo="http://93.55.241.177/picon/tgcom24hd.png" tvg-id="1:0:19:72:385:110:EEEE0000:0:0:0:" tvg-name="TGCOM24 HD",TGCOM24 HD
+#EXTVLCOPT:program=114
+http://93.55.241.177:8001/1:0:19:72:385:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="50" tvg-logo="http://93.55.241.177/picon/dmax.png" tvg-id="1:0:19:32:204:1D:EEEE0000:0:0:0:" tvg-name="DMAX",DMAX
+#EXTVLCOPT:program=50
+http://93.55.241.177:8001/1:0:19:32:204:1D:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="1007" tvg-logo="http://93.55.241.177/picon/raistoria.png" tvg-id="1:0:16:3EF:1:217C:EEEE0000:0:0:0:" tvg-name="Rai Storia",Rai Storia
+#EXTVLCOPT:program=1007
+http://93.55.241.177:8001/1:0:16:3EF:1:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="3055" tvg-logo="http://93.55.241.177/picon/mediasetextrahd.png" tvg-id="1:0:19:BEF:3A2:110:EEEE0000:0:0:0:" tvg-name="Mediaset Extra HD",Mediaset Extra HD
+#EXTVLCOPT:program=3055
+http://93.55.241.177:8001/1:0:19:BEF:3A2:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="25" tvg-logo="http://93.55.241.177/picon/hgtvhomeandgarden.png" tvg-id="1:0:19:19:7918:217C:EEEE0000:0:0:0:" tvg-name="HGTV - Home&Garden",HGTV - Home&Garden
+#EXTVLCOPT:program=25
+http://93.55.241.177:8001/1:0:19:19:7918:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="1059" tvg-logo="http://93.55.241.177/picon/raiscuola.png" tvg-id="1:0:16:423:2:217C:EEEE0000:0:0:0:" tvg-name="Rai Scuola",Rai Scuola
+#EXTVLCOPT:program=1059
+http://93.55.241.177:8001/1:0:16:423:2:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="1001" tvg-logo="http://93.55.241.177/picon/raisporthd.png" tvg-id="1:0:19:3E9:1:217C:EEEE0000:0:0:0:" tvg-name="Rai Sport HD",Rai Sport HD
+#EXTVLCOPT:program=1001
+http://93.55.241.177:8001/1:0:19:3E9:1:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="80" tvg-logo="http://93.55.241.177/picon/sportitaliahd.png" tvg-id="1:0:19:50:7918:217C:EEEE0000:0:0:0:" tvg-name="SPORTITALIA HD",SPORTITALIA HD
+#EXTVLCOPT:program=80
+http://93.55.241.177:8001/1:0:19:50:7918:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="2" tvg-logo="http://93.55.241.177/picon/motortrend.png" tvg-id="1:0:19:2:7918:217C:EEEE0000:0:0:0:" tvg-name="Motor Trend",Motor Trend
+#EXTVLCOPT:program=2
+http://93.55.241.177:8001/1:0:19:2:7918:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="81" tvg-logo="http://93.55.241.177/picon/sportitaliahd.png" tvg-id="1:0:19:51:7918:217C:EEEE0000:0:0:0:" tvg-name="SPORTITALIA HD",SPORTITALIA HD
+#EXTVLCOPT:program=81
+http://93.55.241.177:8001/1:0:19:51:7918:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="41" tvg-logo="http://93.55.241.177/picon/deejaytv.png" tvg-id="1:0:19:29:7918:217C:EEEE0000:0:0:0:" tvg-name="Deejay TV HD",Deejay TV HD
+#EXTVLCOPT:program=41
+http://93.55.241.177:8001/1:0:19:29:7918:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="83" tvg-logo="http://93.55.241.177/picon/byoblu.png" tvg-id="1:0:16:53:7918:217C:EEEE0000:0:0:0:" tvg-name="Byoblu",Byoblu
+#EXTVLCOPT:program=83
+http://93.55.241.177:8001/1:0:16:53:7918:217C:EEEE0000:0:0:0:
